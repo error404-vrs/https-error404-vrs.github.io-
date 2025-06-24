@@ -1,11 +1,11 @@
 import { Routes, Route } from 'react-router-dom';
 import { motion } from 'framer-motion';
 
-import Header from './components/Header';
-import Profile from './components/Profile';
-import Languages from './components/Langages';
-import Projects from './components/Projects';
-import Footer from './components/Footer';
+import Header from './Components/Header';
+import Profile from './Components/Profile';
+import Languages from './Components/Langages';
+import Projects from './Components/Projects';
+import Footer from './Components/Footer';
 
 function App() {
   const sectionVariant = {
