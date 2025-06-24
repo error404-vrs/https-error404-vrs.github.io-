@@ -10,7 +10,7 @@ function Profile() {
       transition={{ duration: 0.6, ease: "easeOut" }}
     >
       <motion.img
-        src="https://github.com/error404-vrs/error404-vrs.github.io/blob/main/src/assets/me.png"
+        src="./blob/main/src/assets/me.png"
         alt="Photo de Nolann Domas"
         className="w-28 h-28 sm:w-36 sm:h-36 md:w-44 md:h-44 rounded-full object-cover mb-6 shadow-lg border-4 border-gray-700 hover:scale-105 transition-transform duration-300"
         whileHover={{ scale: 1.08 }}
